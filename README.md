@@ -1,7 +1,7 @@
 Advanced Data Science Innovation
 ==============================
 
-Neural Networks
+## Neural Networks with PyTorch
 - Regression
 - Binary Classification
 - Multi Classification
