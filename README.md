@@ -1,7 +1,10 @@
-adv_dsi_lab_5
+Advanced Data Science Innovation
 ==============================
 
-ADSI Lab 5
+Neural Networks
+- Regression
+- Binary Classification
+- Multi Classification
 
 Project Organization
 ------------
